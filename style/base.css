@@ -1,3 +1,6 @@
-body {
-  background-color: #ff7b54;
+:root {
+  --color-primary: #ff7b54;
+  --color-text-on-primary: #ffffff;
+
+  --font-family: "Inter", sans-serif;
 }
